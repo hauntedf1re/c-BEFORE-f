@@ -8,7 +8,7 @@
 	},
 	"id": "sentelfr.build-test",
 	"name": "Build Test",
-	"version": "V1.0.0",
+	"version": "v1.0.0",
 	"developer": "SentelFR",
 	"description": "testing temp builds",
 	"dependencies": {
